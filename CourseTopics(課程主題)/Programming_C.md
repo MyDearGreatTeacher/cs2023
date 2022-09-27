@@ -30,6 +30,7 @@
   - Storage Class
 - Macro and Preprocessors
 - Pointers
+  - [Dangling Pointers in C](https://www.javatpoint.com/dangling-pointers-in-c)
   - Pointer Arithmetic in C
     - Increment
     - Decrement
