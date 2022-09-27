@@ -22,6 +22,7 @@
   - User-defined Functions
   - Function Types
   - Recursion Function
+  - Math Functions
   - 
   - Storage Class
 - Macro and Preprocessors
