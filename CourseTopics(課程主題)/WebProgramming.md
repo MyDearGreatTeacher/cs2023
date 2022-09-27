@@ -4,14 +4,25 @@
   - CSS
   - Javascript
   - framework:
+    - [10 Best JavaScript Frameworks to Use in 2022](https://hackr.io/blog/best-javascript-frameworks) 
     - Jquery
     - [Bootstrap](https://getbootstrap.com/) [RWD Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp)
     - [Tensorflow.js](https://www.tensorflow.org/js)
     - [D3.js - Data-Driven Documents](https://d3js.org/)
 - server-side web Programming
   - PHP
+    - [27 Best Tutorials to Learn PHP in 2022 (Free and Paid Resources)](https://kinsta.com/blog/php-tutorials/) 
     - framework:
-    -  
+      - Laravel
+      - Symfony
+      - CodeIgniter
+      - Zend Framework / Laminas Project
+      - Yii (Framework)
+      - CakePHP
+      - Slim
+      - Phalcon
+      - FuelPHP
+      - Fat-Free Framework 
   - ASP.NET
   - Python
     - Flask
