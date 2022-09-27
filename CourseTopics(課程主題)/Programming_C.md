@@ -1,0 +1,48 @@
+# Programming_C
+
+- Basic  
+  - Keywords & Identifier
+  - Variables & Constants
+  - Data Types
+  - Input/Output
+  - Operators
+- Flow Control
+  - if
+  - if...else
+  - switch...case
+- Loop
+  - for Loop
+  - while Loop
+  - DO while Loop
+  - break and continue
+- Functions
+  - Programming Functions
+  - User-defined Functions
+  - Function Types
+  - Recursion Function
+  - Storage Class
+- Macro and Preprocessors
+- Pointers
+- Arrays(陣列)
+  - Arrays
+  - Multi-dimensional Arrays 
+  - Pointers & Arrays
+- Strings(字串)
+  - Strings
+  - Strings operation
+  - 
+- Advanced Data Type
+  - Structure 
+    - Struct & Pointers
+    - Struct & Function
+  - Union
+  - Enumeration
+- [Dynamic Memory Allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  - malloc()
+  - calloc()
+  - free() 
+  - realloc() 
+- Files
+  - Files Input/Output
+- [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
+
