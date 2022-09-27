@@ -16,7 +16,7 @@
   - while Loop
   - DO while Loop
   - break and continue
-  - Nested Loops in C
+  - [Nested Loops in C](https://www.javatpoint.com/nested-loops-in-c)
   - [Infinite Loop in C](https://www.javatpoint.com/infinite-loop-in-c)
 - Functions
   - Programming Functions
