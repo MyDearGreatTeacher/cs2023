@@ -9,5 +9,5 @@
 - 經典 [C++ Primer, 5/e (繁體中文版) Stanley B. Lippman等 黃銘偉 碁峰資訊(2019)](https://www.tenlong.com.tw/products/9789865021726?list_name=srh)
   - [C++ Primer中文版（第5版）》笔记](https://github.com/czs108/Cpp-Primer-5th-Notes-CN) 
 - [C++ 程式設計的樂趣｜範例實作與專題研究的程式設計課 Josh Lospinoso 著 張耀鴻 譯 碁峰資訊](https://www.tenlong.com.tw/products/9789865028831?list_name=srh)
-  - C++ Crash Course: A Fast-Paced Introduction
+  - [C++ Crash Course: A Fast-Paced Introduction](https://ccc.codes/#code)
   - [範例程式](https://ccc.codes/#code)
