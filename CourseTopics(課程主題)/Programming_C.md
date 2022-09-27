@@ -30,6 +30,12 @@
   - Storage Class
 - Macro and Preprocessors
 - Pointers
+  - Pointer Arithmetic in C
+    - Increment
+    - Decrement
+    - Addition
+    - Subtraction
+    - Comparison
 - Arrays(陣列)
   - Arrays
   - Multi-dimensional Arrays 
