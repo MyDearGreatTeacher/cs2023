@@ -4,7 +4,8 @@
   - Keywords & Identifier
   - Variables & Constants
   - Data Types
-  - Input/Output
+  - Input/Output 
+    - [printf() and scanf() in C](https://www.javatpoint.com/printf-scanf) 
   - Operators
 - Flow Control
   - if
@@ -16,7 +17,7 @@
   - DO while Loop
   - break and continue
   - Nested Loops in C
-  - 
+  - [Infinite Loop in C](https://www.javatpoint.com/infinite-loop-in-c)
 - Functions
   - Programming Functions
   - User-defined Functions
