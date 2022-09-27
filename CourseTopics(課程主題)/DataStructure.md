@@ -38,12 +38,11 @@ Graph (example Tree, Heap)
 ```
 
 #  Linear data structures
+- A data structure is said to be linear if its elements form a sequence.
 
+- Arrays
 ```
 
-A data structure is said to be linear if its elements form a sequence.
-
-Arrays
 Array
 Bit array
 Bit field
@@ -63,9 +62,12 @@ Sorted array
 Sparse matrix
 Iliffe vector
 Variable-length array
-Lists
-Doubly linked list
-Array list
+```
+- Lists
+  - Doubly linked list
+  - Array list
+
+```
 Linked list
 Association list
 Self-organizing list
@@ -78,6 +80,7 @@ Zipper
 Doubly connected edge list also known as half-edge
 Difference list
 Free list
+```
 Trees
 Main article: Tree (data structure)
 Trees are a subset of directed acyclic graphs.
