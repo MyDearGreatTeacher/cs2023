@@ -11,7 +11,10 @@
 - C89
 - C99
 - C11
-- C18
+- [C17/C18](https://en.wikipedia.org/wiki/C17_(C_standard_revision))  [中文說明](https://zh.wikipedia.org/zh-tw/C18_(C%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86))
+  - C17 is the informal name for ISO/IEC 9899:2018, the most recent standard for the C programming language, prepared in 2017 and published in June 2018. 
+  - It replaced C11 (standard ISO/IEC 9899:2011).
+  - C17 will be superseded by C2x 
 
 # Programming_C
 
