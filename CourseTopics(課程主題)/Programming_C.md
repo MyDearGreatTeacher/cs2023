@@ -15,11 +15,14 @@
   - while Loop
   - DO while Loop
   - break and continue
+  - Nested Loops in C
+  - 
 - Functions
   - Programming Functions
   - User-defined Functions
   - Function Types
   - Recursion Function
+  - 
   - Storage Class
 - Macro and Preprocessors
 - Pointers
