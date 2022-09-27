@@ -44,6 +44,7 @@
   - realloc() 
 - Files
   - Files Input/Output
+- command line arguments
 - [C Standard Library](https://en.wikipedia.org/wiki/C_standard_library)
   - <assert.h>		
   - <complex.h>	
