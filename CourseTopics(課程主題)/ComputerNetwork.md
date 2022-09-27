@@ -1,5 +1,5 @@
 # computer network
-- Hareware
+- Network devices and Hareware
   - repeater
   - hub
   - bridge
