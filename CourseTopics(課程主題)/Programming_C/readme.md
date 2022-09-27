@@ -1,6 +1,7 @@
 # 推薦教科書
-- [C Programming: A Modern Approach, 2nd Edition 2nd](https://www.wiley.com/en-au/C+Programming%3A+A+Modern+Approach%2C+2nd+Edition-p-9780393979503)
+- [C Programming: A Modern Approach, 2nd Edition 2nd](http://knking.com/books/c2/index.html)
   - [簡體版中譯本 C語言程序設計 : 現代方法, 2/e (修訂版) ](https://www.tenlong.com.tw/products/9787115565198?list_name=srh) 
+  - 範例程式: 
   - 網路習題解答 http://ex1.ptpress.cn:8442/ex/1/609033ea
     - [fordea/c-programming-a-modern-approach](https://github.com/fordea/c-programming-a-modern-approach)  
     - [williamgherman/c-solutions](https://github.com/williamgherman/c-solutions)
