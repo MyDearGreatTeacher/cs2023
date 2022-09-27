@@ -4,6 +4,10 @@
 - Third-generation programming language
 - Fourth-generation programming language
 - [fifth-generation programming languages (5GL)](https://en.wikipedia.org/wiki/Fifth-generation_programming_language)
+- [High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language)
+- [Low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language)
+  - machine code or assembly language 
+
 
 # Programming Language [TIOBE Index for September 2022]()
 - C
