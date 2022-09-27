@@ -1,4 +1,10 @@
 # Programming
+- First-generation programming language
+- Second-generation programming language
+- Third-generation programming language
+- Fourth-generation programming language
+- [fifth-generation programming languages (5GL)](https://en.wikipedia.org/wiki/Fifth-generation_programming_language)
+
 # Programming Language [TIOBE Index for September 2022]()
 - C
   - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) 
