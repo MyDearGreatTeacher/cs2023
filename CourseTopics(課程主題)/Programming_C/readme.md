@@ -5,6 +5,11 @@
     - [fordea/c-programming-a-modern-approach](https://github.com/fordea/c-programming-a-modern-approach)  
     - [williamgherman/c-solutions](https://github.com/williamgherman/c-solutions)
     - [auwsmit/cpama2](https://github.com/auwsmit/cpama2)
+# C standard
+- C89
+- C99
+- C11
+- C18
 
 # Programming_C
 
