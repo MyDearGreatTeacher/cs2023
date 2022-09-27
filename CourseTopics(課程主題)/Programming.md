@@ -6,6 +6,11 @@
   - [CPP@W3school](https://www.w3schools.com/cpp/default.asp)
   - [C++ Examples](https://www.w3schools.com/cpp/cpp_examples.asp)
   - [C++ Exercises](https://www.w3schools.com/cpp/cpp_exercises.asp)
+  - 教科書
+  - [C++ 程式設計導論, 3/e (修訂版) Y. Daniel Liang 著 蔡明志 譯(2021) 碁峰資訊](https://www.tenlong.com.tw/products/9789865028367?list_name=srh)
+    - [Introduction to Programming with C++, 3/e](http://liveexample.pearsoncmg.com/liang/cpp3e/exercisesolution.html)
+    - [官方習題解答](http://liveexample.pearsoncmg.com/liang/cpp3e/exercisesolution.html)
+    - [習題解答](https://github.com/Kevin-Oudai/my_cpp_solutions)
 - C#
   - [C# Tutorial@W3school](https://www.w3schools.com/cs/index.php)
 - JAVA
