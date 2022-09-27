@@ -2,7 +2,10 @@
 # Programming Language [TIOBE Index for September 2022]()
 - C
   - [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) 
-- C++
+- CPP:C++
+  - [CPP@W3school]()
+  - [C++ Examples](https://www.w3schools.com/cpp/cpp_examples.asp)
+  - [C++ Exercises](https://www.w3schools.com/cpp/cpp_exercises.asp)
 - C#
 - JAVA
 - Python
