@@ -81,8 +81,8 @@ Doubly connected edge list also known as half-edge
 Difference list
 Free list
 ```
-Trees
-Main article: Tree (data structure)
+- Trees
+```
 Trees are a subset of directed acyclic graphs.
 
 Binary trees
@@ -225,7 +225,9 @@ Rolling hash
 MinHash
 Quotient filter
 Ctrie
-Graphs
+```
+- Graphs
+```
 Many graph-based data structures are used in computer science and related fields:
 
 Graph
