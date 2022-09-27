@@ -1,0 +1,18 @@
+# computer network
+- Hareware
+  - repeater
+  - hub
+  - bridge
+  - switch
+  - router
+  - L3-switch
+  - L4-switch
+  - L7-switch
+  - proxy
+- OSI model, TCP/IP
+  - OSI Model
+  - TCP/IP
+- Network Topology
+- Networking Commands
+  - Windows Networking Commands
+  - Linux Networking Commands
