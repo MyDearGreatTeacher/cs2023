@@ -1,5 +1,6 @@
-# cs_TAIWAN_2022 : Course Topics(課程主題)
+# cs_TAIWAN_2022 
 
+# Course Topics(課程主題)
 - Intruduction to programming(Python)
   - use [google colab](https://colab.research.google.com/) 
   - [sample codes](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/Python_code.md)
