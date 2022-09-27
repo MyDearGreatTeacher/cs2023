@@ -6,6 +6,8 @@
   - Data Types
   - Input/Output 
     - [printf() and scanf() in C](https://www.javatpoint.com/printf-scanf) 
+    - [Format Specifier](https://www.javatpoint.com/c-format-specifier)
+    - [Escape Sequence in C](https://www.javatpoint.com/escape-sequence-in-c)
   - Operators
 - Flow Control
   - if
@@ -15,7 +17,7 @@
   - for Loop
   - while Loop
   - DO while Loop
-  - break and continue
+  - break | continue | goto 
   - [Nested Loops in C](https://www.javatpoint.com/nested-loops-in-c)
   - [Infinite Loop in C](https://www.javatpoint.com/infinite-loop-in-c)
 - Functions
@@ -80,3 +82,4 @@
   - <uchar.h>
   - <wchar.h>
   - <wctype.h>
+- [The GNU C Library](https://www.gnu.org/software/libc/) 
