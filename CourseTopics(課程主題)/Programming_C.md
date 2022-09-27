@@ -23,7 +23,7 @@
   - Function Types
   - Recursion Function
   - Math Functions
-  - 
+  - [Random Function in C](https://www.javatpoint.com/random-function-in-c)
   - Storage Class
 - Macro and Preprocessors
 - Pointers
