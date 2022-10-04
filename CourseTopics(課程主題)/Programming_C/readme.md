@@ -6,7 +6,9 @@
     - [fordea/c-programming-a-modern-approach](https://github.com/fordea/c-programming-a-modern-approach)  
     - [williamgherman/c-solutions](https://github.com/williamgherman/c-solutions)
     - [auwsmit/cpama2](https://github.com/auwsmit/cpama2)
-
+- [Learn C Programming - Second Edition(2022)Jeff Szuhay](https://www.packtpub.com/product/learn-c-programming/9781801078450?_ga=2.248221187.582391358.1664834065-900338109.1656255085)
+  - [GITHUB](https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition) 
+  - https://github.com/PacktPublishing/Learn-C-Programming-Second-Edition/tree/main/Chapter03
 # C standard
 - C89
 - C99
