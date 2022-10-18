@@ -34,6 +34,7 @@
     - 請下載ova[SecurityFirst2022](https://github.com/MyFirstSecurity2020/SecurityFirst2022/tree/main/DAY1/HappyLinuxDay/1.linux%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80) 
     - [Linux 指令大全：工程師活用命令列技巧的常備工具書 (全新升級版) ](https://www.tenlong.com.tw/products/9786263331075?list_name=srh)
     - 學習linux 指令
+      - find --help
       - 指令與指令參數 
       - ls -al  | ls -A  | ls -a |ls -l | 
     - 基本指令 ls , pwd, cd, 
