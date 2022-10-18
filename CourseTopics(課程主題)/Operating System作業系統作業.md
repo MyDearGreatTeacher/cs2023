@@ -14,8 +14,10 @@
       - [The Linux Kernel Archives](https://www.kernel.org/)
       - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
       - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
-    - linux shell()
-      - 有許多shell BASH(Bourne Again SHell) csh(The C shell)
+    - linux shell [英文版WIKI](https://en.wikipedia.org/wiki/Unix_shell) [中文版WIKI](https://zh.wikipedia.org/wiki/Unix_shell)
+      - A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. 
+      - The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts
+      - 有許多shell: BASH(Bourne Again SHell) csh(The C shell)
         - 檢查你(使用者)登入時所用的shell
           - finger root 
         - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
@@ -23,6 +25,7 @@
       - shell programming(Linux Shell Script)
         - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
         - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
+        - 教學影片[Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI)
         - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
           - gedit xxx.sh
           - chmod +755 xxx.sh
