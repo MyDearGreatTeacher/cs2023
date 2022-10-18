@@ -9,7 +9,8 @@
     - 核心在計算機科學中是一個用來管理軟體發出的資料I/O（輸入與輸出）要求的電腦程式，將這些要求轉譯為資料處理的指令並交由`中央處理器（CPU）`及電腦中其他電子元件進行處理，是現代作業系統中最基本的部分
     - 核心是為眾多`應用程式`提供對`電腦硬體`的安全存取的一部分軟體，這種存取是有限的，並由核心決定一個程式在什麼時候對某部分硬體操作多長時間。
     - 直接對硬體操作是非常複雜的。所以核心通常提供一種硬體抽象的方法，來完成這些操作。有了這個，通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
-  - linux 
+
+## Linux Operating System 
     - linux kernal [英文版WIKI](https://en.wikipedia.org/wiki/Linux_kernel) [中文版WIKI](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
       - [The Linux Kernel Archives](https://www.kernel.org/)
       - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
@@ -43,7 +44,7 @@ echo "=== 將目前執行 process 的 PID 依照數字大小排序，取出前 1
 # -r 則是由大到小排序，預設是由小到大
 ps | awk '{print $1}' | sort -rn | head -10
 ```
-  - Windows
+## Windows Operating System
     - Windows kernal
     - Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
       - cmd(Command shell)
@@ -63,12 +64,7 @@ ps | awk '{print $1}' | sort -rn | head -10
             - 👍[適用於系統管理的範例指令碼](https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.2)
             - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
             - [PowerShell 流程自動化攻略](https://www.tenlong.com.tw/products/9789865026677?list_name=srh) 
-## Windows Operating System 
-- Windows shell ==> 
-  - cmd
-  - powershell
-
-## Linux Operating System 
+ 
 
 ### 經典教科書 [作業系統, 10/e (授權經銷版)(Silberschatz: Operating System Concepts, 10/e)](https://www.tenlong.com.tw/products/9789865522506?list_name=srh)
 ```
