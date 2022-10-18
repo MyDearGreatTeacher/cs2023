@@ -6,7 +6,7 @@
   - [核心（Kernel|內核）](https://zh.wikipedia.org/wiki/%E5%86%85%E6%A0%B8)
     - The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system
     - 核心在計算機科學中是一個用來管理軟體發出的資料I/O（輸入與輸出）要求的電腦程式，將這些要求轉譯為資料處理的指令並交由`中央處理器（CPU）`及電腦中其他電子元件進行處理，是現代作業系統中最基本的部分
-    - 核心是為眾多應用程式提供對電腦硬體的安全存取的一部分軟體，這種存取是有限的，並由核心決定一個程式在什麼時候對某部分硬體操作多長時間。
+    - 核心是為眾多`應用程式`提供對`電腦硬體`的安全存取的一部分軟體，這種存取是有限的，並由核心決定一個程式在什麼時候對某部分硬體操作多長時間。
     - 直接對硬體操作是非常複雜的。所以核心通常提供一種硬體抽象的方法，來完成這些操作。有了這個，通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
   - linux 
     - linux kernal
