@@ -10,14 +10,19 @@
     - 核心是為眾多`應用程式`提供對`電腦硬體`的安全存取的一部分軟體，這種存取是有限的，並由核心決定一個程式在什麼時候對某部分硬體操作多長時間。
     - 直接對硬體操作是非常複雜的。所以核心通常提供一種硬體抽象的方法，來完成這些操作。有了這個，通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
   - linux 
-    - linux kernal
+    - linux kernal [英文版WIKI](https://en.wikipedia.org/wiki/Linux_kernel) [中文版WIKI](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
       - [The Linux Kernel Archives](https://www.kernel.org/)
       - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
       - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
     - linux shell()
-      - BASH(Bourne Again SHell) csh(The C shell)
+      - 有許多shell BASH(Bourne Again SHell) csh(The C shell)
+        - 檢查你(使用者)登入時所用的shell
+          - finger root 
+        - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
+          - chsh
       - shell programming(Linux Shell Script)
-        - [shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
+        - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
+        - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
         - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
           - gedit xxx.sh
           - chmod +755 xxx.sh
@@ -42,6 +47,7 @@ ps | awk '{print $1}' | sort -rn | head -10
         - [windows commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) 
           - 作業1: 20個 windows 指令(含網路指令 ping netstat ....)
           - 作業2: 開啟記事本(notepad.exe | calc.exe)  使用taskkill殺掉
+            - [How To Kill A Process In Windows 11](https://www.c-sharpcorner.com/article/how-to-kill-a-process-in-windows-11/) 
           - 作業3: task manager 
           - netstat /?
           - netstat -ano
