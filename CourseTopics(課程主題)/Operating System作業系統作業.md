@@ -30,6 +30,7 @@
         - finger root 
     - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
         - chsh
+  - Linux commands
   - shell programming(Linux Shell Script)
     - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
     - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
