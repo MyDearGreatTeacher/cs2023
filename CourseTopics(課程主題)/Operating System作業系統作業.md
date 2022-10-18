@@ -16,11 +16,11 @@
     - linux shell()
       - BASH(Bourne Again SHell) csh(The C shell)
       - shell programming(Linux Shell Script)
-      - [shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
-      - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
-        - gedit xxx.sh
-        - chmod +755 xxx.sh
-        - ./xxx.sh 
+        - [shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
+        - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
+          - gedit xxx.sh
+          - chmod +755 xxx.sh
+          - ./xxx.sh 
 ```
 # 宣告使用 /bin/bash
 #!/bin/bash
