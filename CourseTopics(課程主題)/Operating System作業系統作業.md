@@ -30,7 +30,20 @@
         - finger root 
     - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
         - chsh
-  - Linux commands
+  - Linux commands(指令)
+    - 請下載ova[SecurityFirst2022](https://github.com/MyFirstSecurity2020/SecurityFirst2022/tree/main/DAY1/HappyLinuxDay/1.linux%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80) 
+    - [Linux 指令大全：工程師活用命令列技巧的常備工具書 (全新升級版) ](https://www.tenlong.com.tw/products/9786263331075?list_name=srh)
+    - 學習linux 指令
+      - 指令與指令參數 
+      - ls -al  | ls -A  | ls -a |ls -l | 
+    - 基本指令 ls , pwd, cd, 
+    - linux檔案處理指令  cp rm chmod...
+    - linux檔案壓縮與打包指令 zip tar uzip ...
+    - linux系統管理指令  ps top ...
+    - Linux記憶體臉管理指令 free ...
+    - Linux硬碟管理指令 df(diskfree)  du(disk usage)
+    - linux使用者管理指令  useradd userdel passwd
+    - Linux網路指令 wget ssh ...
   - shell programming(Linux Shell Script)
     - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
     - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
