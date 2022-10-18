@@ -1,7 +1,14 @@
 ## Operating System (OS)
-- 
-- user mode vs Kernel Mode
+- what is Operating System?
+- 常見的作業系統:
+  - 伺服器常用作業系統
+  - 手機作業系統
+  - 雲端作業系統
+- 作業系統的功能與服務 
+- 作業系統的運作模式:Dual mode operation - 雙重模式
+  - user mode vs Kernel Mode
   - [Kernel Mode 與 User Mode 的概念](https://medicineyeh.wordpress.com/2015/02/10/kernel-mode-%E8%88%87-user-mode-%E7%9A%84%E6%A6%82%E5%BF%B5/)
+- [Privileged instruction（特權指令）](https://wangwilly.github.io/willywangkaa/2018/07/10/Operating-System-Basic-Concept-2/)
 - kernal vs shell
   - [kernal](https://en.wikipedia.org/wiki/Kernel_(operating_system)#:~:text=The%20kernel%20is%20a%20computer,between%20hardware%20and%20software%20components.)
   - [核心（Kernel|內核）](https://zh.wikipedia.org/wiki/%E5%86%85%E6%A0%B8)
