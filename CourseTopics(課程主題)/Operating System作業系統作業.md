@@ -9,11 +9,23 @@
       - [The Linux Kernel Archives](https://www.kernel.org/)
       - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
       - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
+    - linux shell
+    -  
   - Windows
     - Windows kernal
-    - Windows shell 
-    - cmd
-    - powershell
+    - Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
+      - cmd(Command shell)
+        - [windows commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) 
+          - 作業: 20個 windows 指令(含網路指令 ping netstat ....)
+          - netstat /?
+          - netstat -ano
+          - taskkill /PID 18354 /F 
+        - powershell
+          - powershel cmdlet 
+          - get-process
+          - powershell programming
+            - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+            - [PowerShell 流程自動化攻略](https://www.tenlong.com.tw/products/9789865026677?list_name=srh) 
 ## Windows Operating System 
 - Windows shell ==> 
   - cmd
