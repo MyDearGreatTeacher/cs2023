@@ -4,6 +4,7 @@
 - Intruduction to programming(Python)
   - use [google colab](https://colab.research.google.com/) 
   - [sample codes](https://github.com/MyDearGreatTeacher/ComputerScience2022/blob/main/Python_code.md)
+  - [恩師Python上課 網址](https://github.com/MyDearGreatTeacher/python2022) 
 - Operating System (OS)
   - Windows 
   - Linux
