@@ -69,6 +69,11 @@ echo "=== 將目前執行 process 的 PID 依照數字大小排序，取出前 1
 # -r 則是由大到小排序，預設是由小到大
 ps | awk '{print $1}' | sort -rn | head -10
 ```
+  - linux `distribution(發行版本)`
+    - kali
+    - Red Hunt
+    - security Onion
+    - Ubuntu  
 ## Windows Operating System
 - Windows kernal
 - Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
