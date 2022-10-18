@@ -23,7 +23,7 @@
    - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
    - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
 - linux shell [英文版WIKI](https://en.wikipedia.org/wiki/Unix_shell) [中文版WIKI](https://zh.wikipedia.org/wiki/Unix_shell)
-    - A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. 
+    - A Unix shell is a `command-line interpreter` or shell that provides a command line user interface for Unix-like operating systems. 
     - The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts
     - 有許多shell: BASH(Bourne Again SHell) csh(The C shell)
     - 檢查你(使用者)登入時所用的shell
