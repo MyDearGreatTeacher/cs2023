@@ -16,14 +16,18 @@
     - Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
       - cmd(Command shell)
         - [windows commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) 
-          - 作業: 20個 windows 指令(含網路指令 ping netstat ....)
+          - 作業1: 20個 windows 指令(含網路指令 ping netstat ....)
+          - 作業2: 開啟記事本(notepad.exe | calc.exe)  使用taskkill殺掉
+          - 作業3: task manager 
           - netstat /?
           - netstat -ano
           - taskkill /PID 18354 /F 
         - powershell
           - powershel cmdlet 
-          - get-process
+            - get-process  動詞-名詞
           - powershell programming
+            - 👍[PowerShell 使用者入門 powershell 101](https://learn.microsoft.com/zh-tw/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.2)
+            - 👍[適用於系統管理的範例指令碼](https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.2)
             - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
             - [PowerShell 流程自動化攻略](https://www.tenlong.com.tw/products/9789865026677?list_name=srh) 
 ## Windows Operating System 
