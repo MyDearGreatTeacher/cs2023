@@ -17,7 +17,7 @@
     - 核心是為眾多`應用程式`提供對`電腦硬體`的安全存取的一部分軟體，這種存取是有限的，並由核心決定一個程式在什麼時候對某部分硬體操作多長時間。
     - 直接對硬體操作是非常複雜的。所以核心通常提供一種硬體抽象的方法，來完成這些操作。有了這個，通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
 
-## Linux Operating System[教學影片]()
+## Linux Operating System[教學影片](https://youtu.be/rYYKST4rG40)
 - linux kernal [英文版WIKI](https://en.wikipedia.org/wiki/Linux_kernel) [中文版WIKI](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
    - [The Linux Kernel Archives](https://www.kernel.org/)
    - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
