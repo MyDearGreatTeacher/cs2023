@@ -11,26 +11,29 @@
     - 直接對硬體操作是非常複雜的。所以核心通常提供一種硬體抽象的方法，來完成這些操作。有了這個，通過行程間通訊機制及系統呼叫，應用行程可間接控制所需的硬體資源（特別是處理器及IO裝置）。
 
 ## Linux Operating System 
-    - linux kernal [英文版WIKI](https://en.wikipedia.org/wiki/Linux_kernel) [中文版WIKI](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
-      - [The Linux Kernel Archives](https://www.kernel.org/)
-      - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
-      - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
-    - linux shell [英文版WIKI](https://en.wikipedia.org/wiki/Unix_shell) [中文版WIKI](https://zh.wikipedia.org/wiki/Unix_shell)
-      - A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. 
-      - The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts
-      - 有許多shell: BASH(Bourne Again SHell) csh(The C shell)
-        - 檢查你(使用者)登入時所用的shell
-          - finger root 
-        - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
-          - chsh
-      - shell programming(Linux Shell Script)
-        - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
-        - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
-        - 教學影片[Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI)
-        - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
-          - gedit xxx.sh
-          - chmod +755 xxx.sh
-          - ./xxx.sh 
+- linux kernal [英文版WIKI](https://en.wikipedia.org/wiki/Linux_kernel) [中文版WIKI](https://zh.wikipedia.org/wiki/Linux%E5%86%85%E6%A0%B8)
+   - [The Linux Kernel Archives](https://www.kernel.org/)
+   - [torvalds/linux: Linux kernel source tree](https://github.com/torvalds/linux)
+   - [Linux Kernel Programming](https://www.tenlong.com.tw/products/9781789953435?list_name=srh)
+- linux shell [英文版WIKI](https://en.wikipedia.org/wiki/Unix_shell) [中文版WIKI](https://zh.wikipedia.org/wiki/Unix_shell)
+    - A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems. 
+    - The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts
+    - 有許多shell: BASH(Bourne Again SHell) csh(The C shell)
+    - 檢查你(使用者)登入時所用的shell
+        - finger root 
+    - [How to Change your Login Shell](https://gps.uml.edu/tutorials/unix-linux/unix/shell.htm#:~:text=To%20change%20your%20shell%20use,prompts%20for%20the%20new%20one.)
+        - chsh
+  - shell programming(Linux Shell Script)
+    - 網站學習資源 [Shell 教程](https://www.runoob.com/linux/linux-shell.html)
+    - 書[shell 腳本實戰](https://www.tenlong.com.tw/products/9787115506887?list_name=srh)
+    - 教學影片[Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI)
+    - [簡明 Linux Shell Script 入門教學](https://blog.techbridge.cc/2019/11/15/linux-shell-script-tutorial/)
+    - 簡單範例
+```
+gedit xxx.sh
+chmod +755 xxx.sh
+./xxx.sh 
+```
 ```
 # 宣告使用 /bin/bash
 #!/bin/bash
@@ -45,25 +48,25 @@ echo "=== 將目前執行 process 的 PID 依照數字大小排序，取出前 1
 ps | awk '{print $1}' | sort -rn | head -10
 ```
 ## Windows Operating System
-    - Windows kernal
-    - Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
-      - cmd(Command shell)
-        - [windows commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) 
-          - 作業1: 20個 windows 指令(含網路指令 ping netstat ....)
-          - 作業2: 開啟記事本(notepad.exe | calc.exe)  使用taskkill殺掉
-            - [How To Kill A Process In Windows 11](https://www.c-sharpcorner.com/article/how-to-kill-a-process-in-windows-11/) 
-          - 作業3: task manager 
-          - netstat /?
-          - netstat -ano
-          - taskkill /PID 18354 /F 
-        - powershell
-          - powershel cmdlet 
-            - get-process  動詞-名詞
-          - powershell programming
-            - 👍[PowerShell 使用者入門 powershell 101](https://learn.microsoft.com/zh-tw/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.2)
-            - 👍[適用於系統管理的範例指令碼](https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.2)
-            - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
-            - [PowerShell 流程自動化攻略](https://www.tenlong.com.tw/products/9789865026677?list_name=srh) 
+- Windows kernal
+- Windows shell (Windows 有兩個命令行 shell：Command shell 和PowerShell)
+  - cmd(Command shell)
+  - [windows commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) 
+  - 作業1: 20個 windows 指令(含網路指令 ping netstat ....)
+  - 作業2: 開啟記事本(notepad.exe | calc.exe)  使用taskkill殺掉
+     - [How To Kill A Process In Windows 11](https://www.c-sharpcorner.com/article/how-to-kill-a-process-in-windows-11/) 
+  - 作業3: task manager 
+      - netstat /?
+      - netstat -ano
+      - taskkill /PID 18354 /F 
+   - powershell
+     - powershel cmdlet 
+       - 指令格式: 動詞-名詞 get-process 
+     - powershell programming
+       - 👍[PowerShell 使用者入門 powershell 101](https://learn.microsoft.com/zh-tw/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.2)
+       - 👍[適用於系統管理的範例指令碼](https://learn.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.2)
+       - [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+       - [PowerShell 流程自動化攻略](https://www.tenlong.com.tw/products/9789865026677?list_name=srh) 
  
 
 ### 經典教科書 [作業系統, 10/e (授權經銷版)(Silberschatz: Operating System Concepts, 10/e)](https://www.tenlong.com.tw/products/9789865522506?list_name=srh)
