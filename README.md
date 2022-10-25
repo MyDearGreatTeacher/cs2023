@@ -1,5 +1,8 @@
 # cs_TAIWAN_2022 
-
+ 
+ - google meet :  https://meet.google.com/cnj-ymru-gtp
+ 
+ 
 # Course Topics(課程主題)
 - Intruduction to programming(Python)
   - use [google colab](https://colab.research.google.com/) 
