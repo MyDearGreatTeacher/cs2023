@@ -23,10 +23,10 @@
 # 成績計算
 - 期中考:
   - 占比:30%
-  - 考試範圍:Python+computer hardware + computer network
+  - 考試範圍:Python+computer  operating system+ computer network
 - 期末考:
   - 占比:30%
-  - 考試範圍:operating system + web programming + data strcutre + algorithm
+  - 考試範圍: hardware + web programming + data strcutre + algorithm
 - 期中平時:
   - 占比:20%
 - 期末考: Web Programming:My First KSU life
