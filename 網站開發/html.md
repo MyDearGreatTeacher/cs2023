@@ -71,6 +71,11 @@
 ```html
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Welcome to Taiwan</title>
+  <meta charset="UTF-8">
+</head>
+
 <body>
 
 <h2>JavaScript Objects</h2>
@@ -80,11 +85,12 @@
 <script>
 // Create an object:
 const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
-
+// key-value pairs
 // Display some data from the object:
 document.getElementById("demo").innerHTML =
 person.firstName + " is " + person.age + " years old.";
 </script>
+<marquee>這是人生跑馬燈THIS is PORTUGAL football</marquee>
 
 </body>
 </html>
