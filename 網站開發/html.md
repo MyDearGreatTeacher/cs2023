@@ -67,7 +67,7 @@
 </html>
 ```
 
-## Javascript [錄影教學]()
+## Javascript [錄影教學](https://youtu.be/qKySp4I2BLA)
 ```html
 <!DOCTYPE html>
 <html>
