@@ -4,6 +4,9 @@
 
 # 龍大大資安課程
 - [SecurityFoscusOnline2023](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023)
+  - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
+  - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
+  - [A3_Python程式與資安應用入門](https://github.com/MyFirstSecurity2020/20230302) 
 - [IPAS 資安工程師證照](./IPAS.md)
  
 # Course Topics(課程主題)
