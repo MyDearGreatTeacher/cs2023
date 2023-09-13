@@ -1,7 +1,10 @@
 # cs_TAIWAN_2022 
  
 # google meet 
- 
+
+# 龍大大資安課程
+- [SecurityFoscusOnline2023](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023)
+- [IPAS 資安工程師證照](./IPAS.md)
  
 # Course Topics(課程主題)
 - Intruduction to programming(Python)
