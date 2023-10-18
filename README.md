@@ -1,4 +1,6 @@
 # 資訊科技概論 
+# 成績
+- [2023.10.17第一次成績計算](./成績2023.md)
 ## Course Topics(課程主題)
 - 程式開發概論(Intruduction to programming)
   - Python
