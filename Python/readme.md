@@ -1,4 +1,4 @@
-## 期中考報告:我的python路 MyJournal to Python
+## 期中考報告:我的python路 My Journal to Python
 - 函數
   - [11+ Python Recursion Practice Problems With Solutions](https://pythonmania.org/functions/python-recursion-practice-problems-with-solutions/)
 
