@@ -1,7 +1,12 @@
-
 # 推薦書籍 
+- Python 技術者們 - 練功
+  - https://www.tenlong.com.tw/products/9789863125914?list_name=srh 
+- 一本精通 - Python 範例應用大全
+  - https://www.tenlong.com.tw/products/9786267273678?list_name=srh 
 - The Python Workshop - Second Edition
   - https://github.com/PacktPublishing/The-Python-Workshop-Second-Edition
+
+# 推薦書籍 
 - The Statistics and Calculus with Python Workshop
   - The Statistics and Calculus with Python Workshop 
 - Flask網站開發
